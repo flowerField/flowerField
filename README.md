@@ -3,9 +3,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=flowerField&show_icons=true&include_all_commits=true&count_private=true" />
 
-你好，我是文顶顶，生活在中国广州。目前就职于CVTE。
-
-如果你想找我聊聊，欢迎给我[发邮件](mailto:wendingding_ios@126.com)。
+你好，我是文顶顶，生活在中国广州。目前就职于CVTE。如果你想找我聊聊，欢迎给我[发邮件](mailto:wendingding_ios@126.com)。
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flowerField&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
