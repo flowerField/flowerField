@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=flowerField&show_icons=true&include_all_commits=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=flowerField&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+" />
 
 你好，我是文顶顶，生活在中国广州。目前就职于CVTE。如果你想找我聊聊，欢迎给我[发邮件](mailto:wendingding_ios@126.com)。
 
