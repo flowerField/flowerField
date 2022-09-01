@@ -11,6 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flowerField&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!--
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
@@ -19,6 +20,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/babel/babel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 
+-->
 <!--
 **flowerField/flowerField** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
