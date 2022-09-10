@@ -4,16 +4,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=flowerField&show_icons=true&include_all_commits=true&count_private=true)" />
 -->
 
-你好，我是文顶顶，出生于云南，长成后长期混迹于深圳和广州，目前就职于CVTE。
+我是文顶顶，出生于云南，长成后长期混迹于深圳和广州，目前就职于CVTE。
 
-软件行业从业者。键盘艺术家，自诩喜好文学和藏书，有评书和杂文等习作若干偶登街头小报和地摊刊物。
+软件行业从业者，键盘艺术家，自诩喜好文学和藏书，有评书和杂文等习作若干偶登街头小报和地摊刊物。
 
-如果你想找我聊聊，欢迎给我[发邮件](mailto:wendingding_ios@126.com)。
+此外，我热衷分享，是博客园"花田半亩"的技术博主，公众号“鹿鸣社”负责人，如果你想找我聊聊，欢迎给我[发邮件](mailto:wendingding_ios@126.com)。
 
-```
-  公众号“鹿鸣社”负责人
-  博客园"花田半亩"知名技术博主
-```
 <img src="https://s3.bmp.ovh/imgs/2022/08/14/c2793bcd6526ad8f.png"/>
 
 <!--
