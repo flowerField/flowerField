@@ -4,7 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=flowerField&show_icons=true&include_all_commits=true&count_private=true)" />
 -->
 
-我是文顶顶，出生于云南，长成后长期混迹于深圳和广州，目前就职于CVTE。
+我是文顶顶，出生于云南，长成后长期混迹于深圳和广州。
 
 软件行业从业者，键盘艺术家，自诩喜好文学和藏书，有评书和杂文等习作若干偶登街头小报和地摊刊物。
 
